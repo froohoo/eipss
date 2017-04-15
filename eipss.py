@@ -4,7 +4,6 @@
 
 
 import sqlite3 as sql
-import lxml
 from eipdevice import eipdevice
 import json
 from ipaddr import IPv4Network
