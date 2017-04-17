@@ -1,5 +1,5 @@
 # eipss (Ethernet IP Subnet Scanner)
-## Pronounced 'youps'
+## Pronounced 'oops'
 
 The goal for eipss is to develop a working subnet scanner to discover and querry ethernet IP devices. I plan to leverage the very useful [cpppo](https://github.com/pjkundert/cpppo) library to accomplish this. The final product should be able to:
 
