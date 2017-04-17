@@ -1,7 +1,7 @@
 # eipss (Ethernet IP Subnet Scanner)
 ## Pronounced 'youps'
 
-The goal for eipss is to develop a working subnet scanner for discovery querrying ethernet IP devices. I plan to leverage the very useful [cpppo](https://github.com/pjkundert/cpppo) library to accomplish this. The final product should be able to:
+The goal for eipss is to develop a working subnet scanner to discover and querry ethernet IP devices. I plan to leverage the very useful [cpppo](https://github.com/pjkundert/cpppo) library to accomplish this. The final product should be able to:
 
 Initially:
 1. Scan a subnet for Ethernet / IP devices and enumerate the identity object parameters.
